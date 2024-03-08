@@ -1,5 +1,8 @@
 #Igonre folder
 /ajib
+*.csv
+*.db
+poi.tar
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
